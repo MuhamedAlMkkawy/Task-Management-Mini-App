@@ -1,0 +1,15 @@
+{
+  "validation": {
+    "titleRequired": "Title is required.",
+    "titleMin": "Title must be at least 3 characters.",
+    "titleMax": "Title must not exceed 100 characters.",
+
+    "descriptionMax": "Description must not exceed 500 characters.",
+
+    "statusRequired": "Status is required.",
+    "statusInvalid": "Please select a valid status.",
+
+    "dueDateRequired": "Due date is required.",
+    "dueDateFuture": "Due date must be in the future."
+  }
+}
